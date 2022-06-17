@@ -1,6 +1,6 @@
 # Git-Tutorial
-1. Some item
-2. Item with table
+* Some item
+* Item with table
 
   | xx|yyy|
   |---|---|
@@ -10,4 +10,4 @@
      | xx|yyy|
      |---|---|
      |aa|bb|
-3. Another item.
+* Another item.
